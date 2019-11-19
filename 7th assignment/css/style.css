@@ -1,0 +1,254 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	background:url(../image/banar-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	float: left;
+}
+header .custom-bg{
+	background-color: #00000087;
+}
+.header-top{
+	padding: 20px 0px 20px 0px;
+}
+.header-top-heading{
+	font-size: 60pt;
+	color: yellow;
+	font-family: 'Italianno', cursive;
+	float: left;
+	display: inline-block;
+	margin-top: 40px;
+}
+.custom-nav{
+	float: left;
+	margin-top: 90px;
+}
+.header-top-ul{
+	list-style: none;
+}
+.header-top-ul li{
+	display: inline-block;
+	padding: 0px 10px 0px 10px;
+}
+.header-top-ul a{
+	text-decoration: none;
+	color: white;
+}
+.header-contant-heading{
+	font-size: 43pt;
+	font-family: Myriad Pro;
+	color: white;
+	padding: 10px;
+	background-color: #00000036;
+	margin-top: 110px;
+}
+.header-contant-parag{
+ 	font-size: 15pt;
+ 	color: white;
+ 	margin-top: 30px;
+ 	text-align: justify;
+}
+.header-button-custom{
+	background-color: transparent;
+	border:2px solid white;
+	border-radius: none;
+	color: white;
+	margin: 100px 0px 200px 0px;
+}
+
+
+/*first-car-section start*/
+.first-car-section{
+	background-color: #F6F6F6;
+	width: 100%;
+	float: left;
+}
+.car-section-heading{
+	margin: 50px 0px 100px 0px;
+	font-size: 40pt;
+}
+.car-section-parag{
+	color: #DADADA;
+	text-align: justify;
+}
+/*car and squer png css*/
+.car-squier{
+	width: 100%;
+	position: relative;
+}
+.car-squier-png{
+	width: 100%;
+	height: 380px;
+	margin-top: 50px;
+}
+.car-image-div{
+	width: 80%;
+    position: absolute;
+    top: 130px;
+    left: 50px;
+}
+.car-png{
+	width: 100%;
+}
+/*car 2nd section*/
+
+.car-sec-sec{
+	background-color: #28282E;
+	width: 100%;
+	float: left;
+}
+.car-sec-sec h1{
+	font-size: 40spt;
+	font-style: bold;
+	color: white;
+	margin-top: 80px;
+
+}
+.car-sec-sec p{
+	font-size: 16pt;
+	color: #737378;
+	margin: 50px 0px 30px 0px;
+	text-align: justify;
+}
+#more {display: none;}
+
+.car-sec-sec img{
+	width: 100%;
+	margin-top: 200px;
+	margin-bottom: 100px;
+}
+#car-sec-myBtn{
+	background-color: transparent;
+	border:2px solid #F6F6F6;
+	border-radius: none;
+	color: white;
+	padding: 8px 10px;
+}
+/*footer  part*/
+
+footer{
+	background-color: #F13E2C;
+	width: 100%;
+	float: left;
+	padding: 20px 0px;
+}
+footer p{
+	color: white;
+	font-size: 15pt;
+	text-align: center;
+}
+
+/*CONTACT THE NEW PAGE START*/
+.header-custom-css{
+
+}
+.contact-heading{
+	color: #969696;
+}
+.contact-ul a{
+	color: #005D7F;
+}
+
+/*bar*/
+.contact-hr-bar{
+	border-bottom: 4px solid #E4E4E4;
+	margin: 0px;
+	padding: 0px;
+}
+/*contact contant part start*/
+
+.contact-contant-part{
+	background-color: #F04838;
+	width: 100%;
+	float: left;
+}
+.contact-contant-heading{
+	font-size: 50pt;
+	color: white;
+	margin-top: 70px;
+}
+.contact-img-car{
+	width: 100%;
+}
+.contact-parag{
+	font-size: 15pt;
+	color: white;
+	margin-top: 50px;
+	text-align: justify;
+}
+.contact-squer-img{
+	width: 100%;
+	margin-top: 170px;
+}
+.contact-form-form{
+	padding-bottom: 50px;
+}
+.contact-form-part{
+	background-color: #F04838;
+	width: 100%;
+	float: left; 
+}
+
+.form-name{
+	margin-top: 20px;
+	color: white;	
+}
+.input-text{
+	padding: 8px 16px;
+	width: 95%;
+	background-color: #FF6153;
+	border:2px solid #F04838;
+}
+.contact-btn-div{
+	text-align: center;
+}
+.contact-btn{
+	background-color: transparent;
+	border:none;
+	font-family: 'Kaushan Script', cursive;
+	color: white;
+	font-size: 18pt;
+	margin-top: 90px;
+}
+
+
+
+/*About us page css text*/
+.border{
+	border:2px solid yellow;
+}
+.about-contant-part{
+
+}
+.about-contant-part h1{
+	font-size: 45pt;
+	color: #333333;
+	margin:40px 0px 70px 0px;
+
+}
+.about-contant-part p{
+	font-size: 15pt;
+	color: #6B6B6B;
+	text-align: justify;
+}
+.about-us-squer-div{
+	width: 70%;
+    position: relative;
+    margin-top: 50px;
+}
+.about-us-squer-png{
+	width: 100%;
+}
+.about-us-car-div{
+	width: 96%;
+	position: absolute;
+	top: 110px;
+	padding-left: 28%;
+}
+.about-us-car-png{
+    width: 100%;
+}
